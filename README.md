@@ -3,7 +3,7 @@ Latest Income Tax Slabs and Rates proposed for Financial year 2019-20
 
 
 ```java
-int[][] uu = new int[4][3];
+		int[][] uu = new int[4][3];
 		int income = 5000001;
 		int remainingAmount = income;
 		int amount;
