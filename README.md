@@ -128,7 +128,7 @@ System.out.println("Rebate  ="+tax_amt);
 ```
 
 
-# Tax Rebate
+# Professional Tax
 
 ```java
 int[][] rebate = new int[4][3];
